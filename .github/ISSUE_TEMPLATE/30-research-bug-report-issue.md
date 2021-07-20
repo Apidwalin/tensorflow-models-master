@@ -1,9 +1,12 @@
 ---
 name: "[Research Model] Bug Report"
 about: Use this template for reporting a bug for the “research” directory
-labels: type:bug,models:research
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 # Prerequisites
 
 Please answer the following questions for yourself before submitting an issue.

@@ -1,7 +1,9 @@
 ---
 name: "[Official Model] Feature request"
 about: Use this template for raising a feature request for the “official” directory
-labels: type:feature,models:official
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

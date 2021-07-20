@@ -1,9 +1,12 @@
 ---
 name: Questions and Help
 about: Use this template for Questions and Help.
-labels: type:support
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 <!--
 As per our GitHub Policy (https://github.com/tensorflow/models/blob/master/ISSUES.md), we only address code bugs, documentation issues, and feature requests on GitHub.
 
